@@ -65,4 +65,6 @@ jupyter
 - Recommendation: Offer long-term contracts to high-risk customers
 
 ##  Author
-Waleed Ahmad  — AI/ML Engineer
+**Waleed Ahmad**
+BSDS Student(2nd Semester) — Riphah International University Faisalabad
+[GitHub](https://github.com/mianwaleed155847-hub)
